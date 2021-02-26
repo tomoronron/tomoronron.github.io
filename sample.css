@@ -233,14 +233,16 @@ body{
 
     .job{
         display: inline-block;
-        width: 4em;   
+        font-size: 80%;
+        width: 6em;   
         padding-bottom: 15px; 
         font-family: 'Hachi Maru Pop', cursive;
     }
     
     .name{
         display: inline-block;
-        width: 4em;
+        font-size: 80%;
+        width: 6em;
         padding-bottom: 15px;
         font-family: 'Hachi Maru Pop', cursive;
     }
