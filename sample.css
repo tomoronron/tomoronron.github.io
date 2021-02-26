@@ -226,7 +226,12 @@ body{
         font-size: 30px;
         color: #b3defa;
     }
-    
+
+    .nomo{
+        text-align: center;
+        width: 15em;
+    }
+
     .box{
         margin: 60px auto 30px auto;
         width: 97%;
