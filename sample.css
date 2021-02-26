@@ -202,7 +202,7 @@ body{
 
 /*以下、iOSやAndroidに適応するためのメディアクエリ*/
 
-@media screen and (max-width:480px){
+@media screen and (max-width:600px){
     .box{
         margin: 60px auto 30px auto;
         width: 97%;
@@ -211,7 +211,35 @@ body{
         background-color: rgba(0, 0, 0, 0.26);
     }
 
-    .job{
-        font-family: 'Courier New', Courier, monospace;
+    #info{
+        margin: 60px auto 30px auto;
+        width: 97%;
+        border: 1px solid #000;
+        border-radius: 20px;
+        background-color: rgba(0, 0, 0, 0.26);
+        text-align: center;
+        color: #fff;
     }
+
+    #staffcast{
+        margin: 60px auto 30px auto;
+        width: 97%;
+        border: 1px solid #000;
+        border-radius: 20px;
+        background-color: rgba(0, 0, 0, 0.26);
+        text-align: center;
+        color: #fff;
+    }
+
+    .tweet{
+        margin: auto;
+        padding-bottom: 20px;
+        width: 97%;
+        text-align: center;
+        color: #fff;
+        border: 1px solid #000;
+        border-radius: 20px;
+        background-color: rgba(0, 0, 0, 0.26)
+    }
+
 }
