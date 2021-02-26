@@ -247,7 +247,7 @@ body{
         font-family: 'Hachi Maru Pop', cursive;
     }
 
-    #main p{
+    #main .f{
         font-size: 4vw;
     }
 
@@ -318,4 +318,30 @@ body{
         background-color: rgba(0, 0, 0, 0.26)
     }
 
+}
+
+@media screen and (max-width:376px){
+    .job{
+        display: inline-block;
+        font-size: 5vw;
+        width: 8em;   
+        padding-bottom: 15px; 
+        font-family: 'Hachi Maru Pop', cursive;
+    }
+
+    .job2{
+        display: inline-block;
+        font-size: 5vw;
+        width: 9em;   
+        padding-bottom: 15px; 
+        font-family: 'Hachi Maru Pop', cursive;
+    }
+    
+    .name{
+        display: inline-block;
+        font-size: 5vw;
+        width: 7em;
+        padding-bottom: 15px;
+        font-family: 'Hachi Maru Pop', cursive;
+    }
 }
