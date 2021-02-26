@@ -231,6 +231,20 @@ body{
         color: #fff;
     }
 
+    .job{
+        display: inline-block;
+        width: 4em;   
+        padding-bottom: 15px; 
+        font-family: 'Hachi Maru Pop', cursive;
+    }
+    
+    .name{
+        display: inline-block;
+        width: 4em;
+        padding-bottom: 15px;
+        font-family: 'Hachi Maru Pop', cursive;
+    }
+
     .tweet{
         margin: auto;
         padding-bottom: 20px;
