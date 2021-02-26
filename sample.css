@@ -210,6 +210,23 @@ body{
 /*以下、iOSやAndroidに適応するためのメディアクエリ*/
 
 @media screen and (max-width:800px){
+    body{
+        height: 100%;
+        margin: 0;
+        background-image: url("./img002.jpg");
+        background-size: cover;
+        background-attachment: fixed;
+        padding-bottom: 10px;
+    }
+
+    .img {
+        display: block;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 60px;
+    }
+
     .sticky h1{
         font-size: 100px;
         color: #fdefc1;
@@ -217,13 +234,13 @@ body{
     
     .sticky h2{
         margin-bottom: 40px;
-        font-size: 30px;
+        font-size: 20px;
         color: #e7fda8;
     }
     
     .sticky h3{
         margin-top: 20px;
-        font-size: 30px;
+        font-size: 15px;
         color: #b3defa;
     }
 
