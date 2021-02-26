@@ -211,19 +211,19 @@ body{
 
 @media screen and (max-width:500px){
     .sticky h1{
-        font-size: 90%;
+        font-size: 100px;
         color: #fdefc1;
     }
     
     .sticky h2{
         margin-bottom: 40px;
-        font-size: 90%;
+        font-size: 30px;
         color: #e7fda8;
     }
     
     .sticky h3{
         margin-top: 20px;
-        font-size: 90%;
+        font-size: 30px;
         color: #b3defa;
     }
     
