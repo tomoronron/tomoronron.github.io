@@ -142,6 +142,13 @@ body{
     font-family: 'Hachi Maru Pop', cursive;
 }
 
+.job2{
+    display: inline-block;
+    width: 9em;   
+    padding-bottom: 15px; 
+    font-family: 'Hachi Maru Pop', cursive;   
+}
+
 .name{
     display: inline-block;
     width: 9em;
@@ -235,6 +242,14 @@ body{
         display: inline-block;
         font-size: 70%;
         width: 8em;   
+        padding-bottom: 15px; 
+        font-family: 'Hachi Maru Pop', cursive;
+    }
+
+    .job2{
+        display: inline-block;
+        font-size: 70%;
+        width: 9em;   
         padding-bottom: 15px; 
         font-family: 'Hachi Maru Pop', cursive;
     }
