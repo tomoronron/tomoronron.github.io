@@ -209,7 +209,7 @@ body{
 
 /*以下、iOSやAndroidに適応するためのメディアクエリ*/
 
-@media screen and (max-width:500px){
+@media screen and (max-width:800px){
     .sticky h1{
         font-size: 100px;
         color: #fdefc1;
@@ -262,7 +262,7 @@ body{
 
     .job{
         display: inline-block;
-        font-size: 70%;
+        font-size: 100%;
         width: 8em;   
         padding-bottom: 15px; 
         font-family: 'Hachi Maru Pop', cursive;
@@ -270,7 +270,7 @@ body{
 
     .job2{
         display: inline-block;
-        font-size: 70%;
+        font-size: 100%;
         width: 9em;   
         padding-bottom: 15px; 
         font-family: 'Hachi Maru Pop', cursive;
@@ -278,7 +278,7 @@ body{
     
     .name{
         display: inline-block;
-        font-size: 70%;
+        font-size: 100%;
         width: 7em;
         padding-bottom: 15px;
         font-family: 'Hachi Maru Pop', cursive;
