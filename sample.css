@@ -209,7 +209,7 @@ body{
 
 /*以下、iOSやAndroidに適応するためのメディアクエリ*/
 
-@media screen and (max-width:600px){
+@media screen and (max-width:500px){
     .sticky h1{
         font-size: 50%;
         color: #fdefc1;
